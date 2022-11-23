@@ -1,3 +1,3 @@
 # grid 
 
-### bu proje _proje_ ile alakalı   
+### bu proje _proje_ ile alakalı
